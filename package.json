@@ -1,7 +1,7 @@
 {
   "name": "football-card-manager",
-  "version": "1.0.0",
-  "description": "",
+  "version": "2.1.0",
+  "description": "Football-Manager-Card-Game",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --hot --history-api-fallback --open",
@@ -12,7 +12,7 @@
   },
   "author": "Javier Mena",
   "license": "MIT",
-  "homepage": "https://github.com/javiermena/fcmanager",
+  "homepage": "https://github.com/mdenesfe/Football-Manager-Card-Game",
   "keywords": [],
   "dependencies": {
     "classnames": "^2.2.5",
